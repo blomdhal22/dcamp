@@ -3,7 +3,7 @@ master() {
 }
 
 middle() {
-    return true;
+    return master;
 }
 
 m() {

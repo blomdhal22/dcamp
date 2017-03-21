@@ -1,5 +1,5 @@
 middle() {
-    return true;
+    return m;
 }
 
 m() {
